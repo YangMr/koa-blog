@@ -1,0 +1,9 @@
+## 目录结构 
+	config 存放默认文件
+	lib 存放操作数据库文件
+	middlewares 存放判断登录与否文件
+	public 存放样式和头像文件
+	routes 存放路由文件
+	views 存放模板文件
+	index 程序主文件
+	package.json 包括项目名、作者、依赖等等
